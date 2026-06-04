@@ -12,4 +12,4 @@ Currently upskilling in DAX, Power Query, SQL window functions & statistics.
 Open to Data Analyst / ML roles at startups where portfolios speak louder than degrees.
 
 📬 divyakrish2311@gmail.com
-🌐 https://github.com/Divya2311k/Portfolio
+🌐 https://divya2311k.github.io/Portfolio/
